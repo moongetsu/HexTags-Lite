@@ -18,10 +18,10 @@
 ## ✨ Features
 
 - **Hierarchy Priority System:** Automatically applies the most specific tag based on a predefined order:
-  1. **SteamID** (Priority 4)
-  2. **Admin Group** (Priority 3)
-  3. **Admin Flag** (Priority 2)
-  4. **Default** (Priority 1)
+	- **SteamID** (Priority 4)
+	- **Admin Group** (Priority 3)
+	- **Admin Flag** (Priority 2)
+	- **Default** (Priority 1)
 - **High Performance:** Tags are cached upon joining (`ApplyTags`) and pre-formatted (`ChatNamePrefix`) to minimize overhead during chat messages.
 - **Scoreboard & Chat:** Supports both ClanTags (Scoreboard) and Chat Prefixes/Colors.
 - **Smart SteamID Handling:** Handles `STEAM_0` and `STEAM_1` interchangeably.
