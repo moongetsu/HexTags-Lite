@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"Tags Reloaded"
+	{
+		"en"			"Tags reloaded successfully!"
+		"ro"			"Tag-urile au fost reincarcate cu succes!"
+	}
+	"Tags Hidden"
+	{
+		"en"			"{darkred}[Moon]{default} Your tags are now {darkred}hidden{default}."
+		"ro"			"{darkred}[Moon]{default} Tag-urile tale sunt acum {darkred}ascunse{default}."
+	}
+	"Tags Visible"
+	{
+		"en"			"{darkred}[Moon]{default} Your tags are now {green}visible{default}."
+		"ro"			"{darkred}[Moon]{default} Tag-urile tale sunt acum {green}vizibile{default}."
+	}
+}
