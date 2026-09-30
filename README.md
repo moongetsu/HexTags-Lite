@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> ### 🚨 Repository Moved to GitLab
+> This repository has officially migrated to **GitLab** and is now archived on GitHub for historical reference.
+>
+> 📦 **Active Development & Releases**: [https://gitlab.com/moongetsu/hextags-lite](https://gitlab.com/moongetsu/hextags-lite)
+
 <h1 align="center">
   <img src="https://images.gamebanana.com/img/ico/sprays/naruto.gif" width="64" alt="HexTags Lite"/>
   <br />
